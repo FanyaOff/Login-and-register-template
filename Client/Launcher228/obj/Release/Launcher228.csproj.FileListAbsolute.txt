@@ -1,0 +1,13 @@
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\bin\Release\Launcher228.exe.config
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\bin\Release\Launcher228.exe
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\bin\Release\Launcher228.pdb
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\obj\Release\Launcher228.Login.resources
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\obj\Release\Launcher228.Properties.Resources.resources
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\obj\Release\Launcher228.Registration.resources
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\obj\Release\Launcher228.csproj.GenerateResource.cache
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\obj\Release\Launcher228.csproj.CoreCompileInputs.cache
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\obj\Release\Launcher228.csproj.Fody.CopyLocal.cache
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\obj\Release\Launcher228.exe
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\obj\Release\Launcher228.pdb
+C:\Users\Fan9\source\repos\Launcher228\Launcher228\obj\Release\Launcher228.csproj.AssemblyReference.cache
